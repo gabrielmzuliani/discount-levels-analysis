@@ -1,7 +1,7 @@
 # Project Background
 The discount levels data analytics project was conducted using real-world data, the structure, methodology, and approach were designed to reflect business scenarios and ensures that the insights generated and the analytical framework applied can be replicated in organizational contexts.
 
-This project foxuses on investigating the impact of discount strategies on business performance. Throught data analysis, it evaluates how the differents discounts levels influence key metrics, such as revenue, profit, and sales volume. The analysis aims to identify whether discounts effectively drive demand or negatively affect profitability. Additionally, it explores patterns across product categories and regions to uncover strategic opportunities. The main goal is to support more data-driven pricing decisions and improve financial outcomes.
+This project focuses on investigating the impact of discount strategies on business performance. Throught data analysis, it evaluates how the differents discounts levels influence key metrics, such as revenue, profit, and sales volume. The analysis aims to identify whether discounts effectively drive demand or negatively affect profitability. Additionally, it explores patterns across product categories and regions to uncover strategic opportunities. The main goal is to support more data-driven pricing decisions and improve financial outcomes.
 
 Insights and recommendations are provided on the following key areas:
 * **Main metrics relationship:** Analysis applied to identify and assess the dependency level between key business metrics as well as their pattern behavior.
