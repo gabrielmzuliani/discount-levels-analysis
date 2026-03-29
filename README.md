@@ -55,7 +55,7 @@ Overall, the results indicate that a structured discount strategy would have sub
 
 <img width="1020" height="700" alt="image" src="https://github.com/user-attachments/assets/1d3822cb-387c-4ebf-ba00-cd19d79e4373" />
 
-# Results:
+# Results
 
 The analysis results show a reactive discount approach which is unbased in a driven strategic data plan resulting in a lack of demand sensibility which does not adjust according to the levels applied and consequently erodes profitability.
 
